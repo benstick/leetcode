@@ -14,3 +14,4 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./algorithms/c%2B%2B/7_reverseinteger/reverseinteger.cpp)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./algorithms/c%2B%2B/9_palindromenumber/palindromenumber.cpp)|Easy|
