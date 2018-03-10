@@ -8,6 +8,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C#](./algorithms/c%23/1_twosum/twosum.cs)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](./algorithms/c%23/7_reverseinteger/reverseinteger.cs)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C#](./algorithms/c%23/9_palindromenumber/palindromenumber.cs)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C#](./algorithms/c%23/27_removeelement/removeelement.cs)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C#](./algorithms/c%23/69_sqrt/sqrt.cs)|Easy|
 
 ### C++
