@@ -10,5 +10,6 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](./algorithms/c%23/26_removeduplicatessortedarray/removeduplicatessortedarray.cs)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C#](./algorithms/c%23/27_removeelement/removeelement.cs)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C#](./algorithms/c%23/28_implementstrstr/strstr.cs)|Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C#](./algorithms/c%23/35_searchinsertposition/searchinsertposition.cs)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C#](./algorithms/c%23/58_lengthoflastword/lengthoflastword.cs)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C#](./algorithms/c%23/69_sqrt/sqrt.cs)|Easy|
